@@ -1,4 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Terence Lim Jian Yuan
+
+🎓 Bachelor of Computer Science (Data Engineering) Student  
+🏫 Universiti Teknologi Malaysia (UTM)  
+💡 Interested in Data Engineering & Data Analytics
+
+---
+
+## 🧑‍💻 About Me
+I am a first-year university student at Universiti Teknologi Malaysia with a strong interest in data engineering. I enjoy learning how data, systems, and applications work together to support real-world decision-making and organisational processes. I am currently building a solid foundation in system design, data fundamentals, and problem-solving through coursework and hands-on projects.
+
+---
+## 🎓 Education
+- **Universiti Teknologi Malaysia (UTM)**  
+  Bachelor of Data Engineering  
+  *2025 – Present*
+
+- **Kolej Matrikulasi Pahang (KMPh)**  
+  Physical Science Stream  
+  *CGPA: 4.00*  
+  *2024 – 2025*
+
+---
+
+## 🛠️ Skills
+- Programming: C++, Python (basic)
+- Tools: GitHub, Visual Studio Code
+- Soft Skills: Teamwork, Problem Solving, Communication
+
+---
+
+## 🧪 Projects
+
+---
+
+## 📚 Coursework & Learning
+- 
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/terence-lim-jian-yuan-0a6954312/
 
 <!--
 **terencelimjy/terencelimjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
