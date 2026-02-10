@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I am a first-year university student at Universiti Teknologi Malaysia with a strong interest in data engineering. I enjoy learning how data, systems, and applications work together to support real-world decision-making and organisational processes. I am currently building a solid foundation in system design, data fundamentals, and problem-solving through coursework and hands-on projects.
+I am a first-year university student at Universiti Teknologi Malaysia with a strong interest in data engineering. I am developing a strong foundation in logical reasoning, problem-solving, and computational thinking through courses such as discrete structures and programming techniques. I am also learning how digital systems are designed and how data and system components work together in real-world environments. These early studies are helping me build key skills in programming, analysis, and systems understanding as I begin my journey in the field of data engineering.
 
 ---
 ## 🎓 Education
