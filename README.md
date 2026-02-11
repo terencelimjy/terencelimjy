@@ -30,11 +30,13 @@ I am a first-year university student at Universiti Teknologi Malaysia with a str
 ---
 
 ## 🧪 Projects
-
+- [Lift controller Simulation (Digital Logic SECR1013)]()
+- 
 ---
 
 ## 📚 Coursework & Learning
-- 
+- [1/SECPH]()
+- [2/SECPH]()
 ---
 
 ## 🔗 Connect With Me
