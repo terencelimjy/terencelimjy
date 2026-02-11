@@ -12,7 +12,7 @@ I am a first-year university student at Universiti Teknologi Malaysia with a str
 ---
 ## 🎓 Education
 - **Universiti Teknologi Malaysia (UTM)**  
-  Bachelor of Data Engineering  
+  Bachelor Degree in Computer Science (Data Engineering)  
   *2025 – Present*
 
 - **Kolej Matrikulasi Pahang (KMPh)**  
