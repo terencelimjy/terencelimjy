@@ -30,13 +30,13 @@ I am a first-year university student at Universiti Teknologi Malaysia with a str
 ---
 
 ## 🧪 Projects
-- [Lift controller Simulation (Digital Logic SECR1013)]()
+- [Lift controller Simulation (Digital Logic SECR1013)](https://github.com/terencelimjy/lift-controller-digital-logic)
 - 
 ---
 
 ## 📚 Coursework & Learning
-- [1/SECPH]()
-- [2/SECPH]()
+- [1/SECPH](https://github.com/terencelimjy/data-engineering/tree/main/1-SECPH)
+- [2/SECPH](https://github.com/terencelimjy/data-engineering/tree/main/2-SECPH)
 ---
 
 ## 🔗 Connect With Me
